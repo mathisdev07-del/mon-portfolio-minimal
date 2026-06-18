@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <rect width="800" height="450" fill="#f4f4f5"/>
+  <rect x="120" y="100" width="560" height="40" rx="8" fill="#e4e4e7"/>
+  <rect x="120" y="170" width="400" height="24" rx="6" fill="#e4e4e7"/>
+  <rect x="120" y="220" width="480" height="24" rx="6" fill="#e4e4e7"/>
+  <rect x="120" y="270" width="320" height="24" rx="6" fill="#e4e4e7"/>
+  <text x="400" y="380" text-anchor="middle" fill="#71717a" font-family="system-ui,sans-serif" font-size="20">TaskFlow</text>
+</svg>
